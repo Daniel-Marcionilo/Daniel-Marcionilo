@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo ao meu perfil! 👋😄
 
-Sou um jovem entusiasta, apaixonado por programação e tecnologia, adoro desafios e resolução de problemas. 👨‍💻
+Sou um jovem entusiasta, apaixonado por programação e tecnologia. Adoro desafios e resolução de problemas. 👨‍💻
 
-Aluno de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São Paulo - Fatec SP. Paralelamente, estou participando de um bootcamp, oferecido pela Generation Brasil, para me tornar um Java Developer Jr.
+Aluno de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São Paulo - Fatec SP. Paralelamente, estou participando de um bootcamp oferecido pela Generation Brasilpara me tornar um Java Developer Jr.
 
 Além disso, tenho formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual (ETEC) Jaraguá.
 
