@@ -2,9 +2,9 @@
 
 Sou um jovem entusiasta, apaixonado por programação e tecnologia. Adoro desafios e resolução de problemas. 👨‍💻
 
-Atualmente graduando em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo - Fatec SP. Em paralelo, estou participando do bootcamp "Pessoa Desenvolvedora Java" oferecido pela Generation Brasil para me tornar um Desenvolvedor Web Java Jr Full Stack.
+Atualmente, estou graduando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo - Fatec SP. Em paralelo, estou participando do bootcamp "Pessoa Desenvolvedora Java" oferecido pela Generation Brasil para me tornar um Desenvolvedor Web Java Jr Full Stack.
 
-Além disso, tenho formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual (ETEC) Jaraguá.
+Além disso, possuo formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual (ETEC) Jaraguá.
 
 ### Tecnologias:
 
