@@ -1,10 +1,12 @@
-## Olá! Bem-vindo ao meu perfil! 👋😄
+## Olá! Bem-vindo(a) ao meu perfil! 👋😄
 
-Sou um jovem entusiasta, apaixonado por programação e tecnologia. Adoro desafios e resolução de problemas. 👨‍💻
+- 👨‍💻 Sou Desenvolvedor Backend Java, apaixonado por programação e tecnologia. Adoro desafios e resolver de problemas. 
 
-Atualmente, estou graduando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo - Fatec SP. Em paralelo, estou participando do bootcamp "Pessoa Desenvolvedora Java" oferecido pela Generation Brasil para me tornar um Desenvolvedor Web Java Jr Full Stack.
+- 📚 Atualmente, estou graduando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo - Fatec SP. 
 
-Além disso, possuo formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual (ETEC) Jaraguá.
+- Recentemente me formei como Desenvolvedor Web Java Jr Full Stack pela Generation Brasil.
+
+- Além disso, possuo formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual (ETEC) Jaraguá.
 
 ### Tecnologias:
 
@@ -14,6 +16,8 @@ Além disso, possuo formação técnica em Desenvolvimento de Sistemas pela Esco
   <img align="center" alt="Dan-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt= "Dan-Java"height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Dan-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Dan-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
